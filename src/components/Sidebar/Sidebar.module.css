@@ -1,0 +1,23 @@
+.sidebar {
+    background-color: green;
+    
+  }
+  
+.menu {
+    list-style: none;
+    padding: 0;
+  }
+  
+.item a {
+    text-decoration: none;
+    color: rgb(94, 255, 0);
+  }
+  
+.item {
+    margin: 10px 0;
+  }
+  
+ .item:last-child {
+    margin-top: 40px;
+  }
+  
